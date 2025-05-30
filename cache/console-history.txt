@@ -1,0 +1,2 @@
+console.log(ethers.utils.for
+const balance = await ethers.provider.getBalance("địa_chỉ_ví_của_bạn");
